@@ -1,4 +1,7 @@
 #test
+$pip install bs4
+$pip install pymongo
+
 import requests
 from bs4 import BeautifulSoup
 import time
